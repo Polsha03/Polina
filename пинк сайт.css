@@ -76,13 +76,13 @@ html, body {
  font-family: 'Source Sans Pro', sans-serif;
 }
 .tef1 { font-family: 'Source Sans Pro', sans-serif;
-color: #FF1493;
+color: pink;
 }
 .tef2 { font-family: 'Source Sans Pro', sans-serif;
-color: #F08080;
+color: red;
 }
 .tef3 { font-family: 'Source Sans Pro', sans-serif;
-color: #EE82EE;
+color: black;
 }
 #landing .title {
  background: white;
@@ -160,17 +160,17 @@ color: #EE82EE;
  background-position: center center;
 }
 #landing .line-break1 {
- background: linear-gradient(60deg, #FF1493, #DB7093, #FFFAFA);
+ background: linear-gradient(60deg, pink, black, red);
  width: 100%;
  margin: 0 auto;
 }
 #landing .line-break2 {
- background: linear-gradient(60deg, #F08080, #DB7093, #FFFAFA);
+ background: linear-gradient(60deg, red, black, pink);
  width: 100%;
  margin: 0 auto;
 }
 #landing .line-break3 {
- background: linear-gradient(60deg, #EE82EE, #DB7093, #FFFAFA);
+ background: linear-gradient(60deg, black, pink, red);
  width: 100%;
  margin: 0 auto;
 }
