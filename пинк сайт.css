@@ -160,17 +160,17 @@ color: #EE82EE;
  background-position: center center;
 }
 #landing .line-break1 {
- background: linear-gradient(60deg, #FF1493, white, pink);
+ background: linear-gradient(60deg, #FF1493, #DB7093, #FFFAFA);
  width: 100%;
  margin: 0 auto;
 }
 #landing .line-break2 {
- background: linear-gradient(60deg, #F08080, white, pink);
+ background: linear-gradient(60deg, #F08080, #DB7093, #FFFAFA);
  width: 100%;
  margin: 0 auto;
 }
 #landing .line-break3 {
- background: linear-gradient(60deg, #EE82EE, white, pink);
+ background: linear-gradient(60deg, #EE82EE, #DB7093, #FFFAFA);
  width: 100%;
  margin: 0 auto;
 }
