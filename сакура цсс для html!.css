@@ -475,7 +475,7 @@ input:checked + .slider:before {
 
 }
 .photo {
-	margin-top: -150px;
-	margin-left: -110px;
-	width: 30%;
+	margin-top: -50px;
+	margin-left: -350px;
+	width: 20%;
 }
