@@ -34,7 +34,7 @@ html {
     width: 100%;
     max-width: 100%;
     overflow-x: hidden;
-    background-color: #91f2ff;
+    background-color: #E0FFFF;
   }     
     
 *{
@@ -78,7 +78,7 @@ li:hover  {
    width: 8.3vw;
 }
 
-#one {background-color:#7ffffb;}
+#one {background-color:#87CEFA;}
 #two {background-color:#7fdfff;}
 #three {background-color:#7fb0ff;}
 #four {background-color:#146bff;}
@@ -220,7 +220,7 @@ img {
   color: black;
 }
  #one2 {
-  background: linear-gradient(to bottom right, #7ffffb, #00CED1);
+  background: linear-gradient(to bottom right, #87CEFA, #1E90FF);
 }
 .poster {
   width: 70vw;
@@ -416,7 +416,7 @@ img {
   color: black;
 }
 #one2 {
-  background: linear-gradient(to bottom right, #7ffffb, #00CED1);
+  background: linear-gradient(to bottom right, #87CEFA, #1E90FF);
 }
 .poster {
   overflow: hidden;
